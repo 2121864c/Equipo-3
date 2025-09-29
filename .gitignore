@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+=======
+/.quarto/
+**/*.quarto_ipynb
+.Rproj.user
+>>>>>>> ccd4d6773de17d76f77c7f04fa887399afd55dd5
